@@ -40,3 +40,7 @@ arrayDeParrafos = Array.from(listaDeParrafos)
 arrayDeParrafos.forEach(p => { console.log(p)})
 
 
+// ********************************************************************************************************
+// Video 5 - Navegacion efectiva entre nodos 
+
+
